@@ -13,6 +13,8 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Produtos");
+		System.out.println("Produtos2");
+		System.out.println("Produtos3");
 		
 		Product product = new Product();
 		System.out.println("Enter product data: ");
